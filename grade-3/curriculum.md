@@ -1,3 +1,1 @@
-# Grade 3 Physical Education
-
-Grade 3 documentation in progress...
+{"encoding": "base64", "content": "IyBHcmFkZSAzIFBoeXNpY2FsIEVkdWNhdGlvbiBDdXJyaWN1bHVtIERvY3VtZW50YXRpb24="}
